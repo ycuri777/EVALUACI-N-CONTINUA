@@ -1,0 +1,9 @@
+PRÁCTICA HTML5 Y JAVASCRIPT - SESIÓN 5
+
+1. Descomprime el archivo ZIP.
+2. Abre index.html con Chrome, Edge o Firefox.
+3. Selecciona uno de los nueve ejercicios.
+4. Ingresa datos de prueba y pulsa Calcular / Verificar.
+
+Cada ejercicio está en un archivo HTML independiente.
+El inicio de sesión es una simulación educativa, no un sistema seguro de autenticación.
